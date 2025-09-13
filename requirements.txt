@@ -1,0 +1,15 @@
+streamlit
+pymupdf
+pdfplumber
+langchain
+langchain-community
+google-generativeai
+langchain-google-genai
+sentence-transformers
+faiss-cpu
+python-dotenv
+chromadb
+torch
+transformers
+huggingface_hub 
+
